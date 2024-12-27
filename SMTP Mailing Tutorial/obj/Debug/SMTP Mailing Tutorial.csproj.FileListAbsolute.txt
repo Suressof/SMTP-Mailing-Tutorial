@@ -1,0 +1,14 @@
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\bin\Debug\SMTP Mailing Tutorial.exe.config
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\bin\Debug\SMTP Mailing Tutorial.exe
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\bin\Debug\SMTP Mailing Tutorial.pdb
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.csproj.AssemblyReference.cache
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP_Mailing_Tutorial.Form1.resources
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP_Mailing_Tutorial.Properties.Resources.resources
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.csproj.GenerateResource.cache
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.exe
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.pdb
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\bin\Debug\Guna.UI.dll
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\bin\Debug\Guna.UI2.dll
+C:\Users\sgpla\source\repos\SMTP Mailing Tutorial\SMTP Mailing Tutorial\obj\Debug\SMTP Mailing Tutorial.csproj.CopyComplete
